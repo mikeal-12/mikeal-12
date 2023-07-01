@@ -27,4 +27,4 @@ I am a passionate and motivated entry-level cybersecurity professional with a st
 ## Contact Information
 
 - Email: isaacadebari@stu.cu.edu.ng
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adebari-isaac-590a18186)
+- LinkedIn: [Adebari Isaac](https://www.linkedin.com/in/adebari-isaac-590a18186)
