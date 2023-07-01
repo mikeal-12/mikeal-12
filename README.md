@@ -1,16 +1,30 @@
-### Hi there 👋
+# Hi, I'm Isaac!
 
-<!--
-**mikeal-12/mikeal-12** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
 
-Here are some ideas to get you started:
+I am a passionate and motivated entry-level cybersecurity professional with a strong foundation in securing digital systems and protecting sensitive information. I am committed to continuous learning and staying up-to-date with the latest cybersecurity trends and technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Certifications
+
+- Cisco's Introduction to Cybersecurity
+- Google Cybersecurity Professional (In view)
+- Comptia Security+(In view)
+
+
+## CyberSecurity Projects:
+<!--### Project Name 1
+
+- Description: Briefly describe the project and your role.
+- Technologies Used: List the technologies or tools you used.
+- Link: Provide a link to the project repository or any relevant documentation.
+
+### Project Name 2
+
+- Description: Briefly describe the project and your role.
+- Technologies Used: List the technologies or tools you used.
+- Link: Provide a link to the project repository or any relevant documentation. -->
+
+## Contact Information
+
+- Email: isaacadebari@stu.cu.edu.ng
+- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/adebari-isaac-590a18186)
