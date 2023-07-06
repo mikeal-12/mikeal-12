@@ -1,6 +1,6 @@
 # Hi, I'm Isaac
 
-I am a passionate and motivated entry-level cybersecurity professional with a strong foundation in securing digital systems and protecting sensitive information. I am committed to continuous learning and staying up-to-date with the latest cybersecurity trends and technologies.
+I am a passionate and motivated individual seeking an entry-level Cyber Security position to contribute to organizational security through effective risk management, incident response, and proactive threat detection. I am committed to continuous learning and staying up-to-date with the latest cybersecurity trends and technologies.
 
 ## Certifications
 
