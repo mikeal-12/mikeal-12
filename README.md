@@ -8,14 +8,12 @@ I am a passionate and motivated entry-level cybersecurity professional with a st
 - Google Cybersecurity Professional (In view)
 - Comptia Security+(In view)
 
-
 ## CyberSecurity Projects:
-<!--### Project Name 1
 
-- Description: Briefly describe the project and your role.
-- Technologies Used: List the technologies or tools you used.
-- Link: Provide a link to the project repository or any relevant documentation.
-
+### [Conducting A Security Audit](https://github.com/mikeal-12/Conducting-a-Security-Audit)
+- Description: I conducted a security audit for a fictional company in the google cybersecurity professional program.
+ 
+<!--
 ### Project Name 2
 
 - Description: Briefly describe the project and your role.
@@ -24,5 +22,5 @@ I am a passionate and motivated entry-level cybersecurity professional with a st
 
 ## Contact Information
 
-- Email: isaacadebari@stu.cu.edu.ng
+- Email: isaacadebari610@gmail.com
 - LinkedIn: [Adebari Isaac](https://www.linkedin.com/in/adebari-isaac-590a18186)
