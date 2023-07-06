@@ -9,9 +9,6 @@ I am a passionate and motivated entry-level cybersecurity professional with a st
 - Comptia Security+(In view)
 
 ## CyberSecurity Projects:
-
-### [Conducting A Security Audit](https://github.com/mikeal-12/Conducting-a-Security-Audit)
-- Description: I conducted a security audit for a fictional company in the google cybersecurity professional program.
  
 <!--
 ### Project Name 2
