@@ -8,8 +8,8 @@ I am a passionate and motivated individual seeking an entry-level cybersecurity 
 - Google Cybersecurity Professional (In view)
 - Comptia Security+(In view)
 
-## CyberSecurity Projects:
-- <h1>Linux: </h1>
+## Projects:
+### Linux:
   - [Managing File Permissions in Linux](https://github.com/mikeal-12/File-Permissions-in-Linux)
 
 <!--
