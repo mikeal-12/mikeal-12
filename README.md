@@ -9,8 +9,7 @@ I am a passionate and motivated individual seeking an entry-level cybersecurity 
 - Comptia Security+(In view)
 
 ## Projects:
-### Linux:
-  - [Managing File Permissions in Linux](https://github.com/mikeal-12/File-Permissions-in-Linux)
+### [Managing File Permissions in Linux](https://github.com/mikeal-12/File-Permissions-in-Linux)
 
 <!--
 ### Project Name 2
