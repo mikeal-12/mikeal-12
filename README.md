@@ -11,7 +11,7 @@ I am a passionate and motivated individual seeking an entry-level cybersecurity 
 ## Projects:
 
 - ### [Managing File Permissions in Linux](https://github.com/mikeal-12/File-Permissions-in-Linux)
-- ### Applying filters to SQL queries
+- ### [Applying Filters to SQL Queries](https://github.com/mikeal-12/Apply-Filters-To-SQL-Queries)
 
 
 
