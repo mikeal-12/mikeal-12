@@ -6,7 +6,7 @@ I am a passionate and motivated individual seeking an entry-level cybersecurity 
 
 - [Cisco's Introduction to Cybersecurity](https://www.credly.com/badges/20980193-d114-40b7-b2a0-be9ae60c8140/linked_in?t=rwji93)
 - Google Cybersecurity Professional (In view)
-- Comptia Security+(In view)
+- Comptia Security+ (In view)
 
 ## Projects:
 
