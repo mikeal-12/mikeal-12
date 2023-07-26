@@ -8,7 +8,7 @@ I am a passionate and motivated individual seeking an entry-level cybersecurity 
 - Google Cybersecurity Professional (In view)
 - Comptia Security+ (In view)
 
-## Projects:
+## Cybersecurity Projects and Labs:
 
 - ### [Managing File Permissions in Linux](https://github.com/mikeal-12/File-Permissions-in-Linux)
 - ### [Filtering SQL Queries](https://github.com/mikeal-12/Apply-Filters-To-SQL-Queries)
