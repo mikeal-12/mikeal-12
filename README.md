@@ -26,4 +26,4 @@ I am a passionate and motivated individual seeking an entry-level cybersecurity 
 ## Contact Information
 
 - Email: isaacadebari610@gmail.com
-- LinkedIn: [Adebari Isaac](https://www.linkedin.com/in/adebari-isaac-590a18186)
+- LinkedIn: [Adebari Isaac](https://www.linkedin.com/in/adebari-isaac)
