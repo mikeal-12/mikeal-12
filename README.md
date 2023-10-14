@@ -6,6 +6,7 @@ I am a passionate and motivated individual seeking an entry-level cybersecurity 
 
 - [CISCO's Introduction to Cybersecurity](https://www.credly.com/badges/20980193-d114-40b7-b2a0-be9ae60c8140/linked_in?t=rwji93)
 - [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GVKDJR7KRBYW)
+- [Networking Basics](https://www.credly.com/badges/089892f8-982c-4ba4-8a66-a5fa921233ca/public_url)
 - Comptia Security+ (In view)
 
 ## Cybersecurity Projects and Labs:
