@@ -17,7 +17,7 @@ compliance, and ensuring all-round enterprise security. I am committed to contin
 - ### [Filtering SQL Queries](https://github.com/mikeal-12/Apply-Filters-To-SQL-Queries)
 - ### [File Handling using Python Algorithms](https://github.com/mikeal-12/File-handling-using-Python-algorithms)
 - ### [DATACOM Cybersecurity Job Simulation](https://github.com/mikeal-12/datacom-cybersecurity-job-simulation)
-- ### [PWC Cybersecurity Job Simulation](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation)
+- ### [PwC Cybersecurity Job Simulation](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation)
 
 
 
