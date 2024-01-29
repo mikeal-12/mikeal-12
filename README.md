@@ -1,7 +1,6 @@
 # Hi, I'm Isaac
 
-I am a passionate and motivated individual seeking an entry-level cybersecurity position to contribute to organizational security through effective risk management, implementing 
-compliance, and ensuring all-round enterprise security. I am committed to continuous learning and staying up-to-date with the latest cybersecurity trends and technologies.
+I am currently navigating the exciting world of cybersecurity through ongoing coursework, I've based my interest in the governance, risk, and compliance aspect of cybersecurity.  I'm open to collaborating on cool projects that make the digital landscape a safer place. Ready to bring my passion for security to the table and make things both secure and reliable.
 
 ## Certifications
 
