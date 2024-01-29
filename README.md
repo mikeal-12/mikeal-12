@@ -2,7 +2,7 @@
 
 I am currently navigating the exciting world of cybersecurity through ongoing coursework, I've based my interest in the governance, risk, and compliance aspect of cybersecurity.  I'm open to collaborating on cool projects that make the digital landscape a safer place. Ready to bring my passion for security to the table and make things both secure and reliable.
 
-## Certifications
+## Certifications and Coursework
 
 - ### [CISCO's Introduction to Cybersecurity](https://www.credly.com/badges/20980193-d114-40b7-b2a0-be9ae60c8140/linked_in?t=rwji93)
 - ### [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GVKDJR7KRBYW)
