@@ -4,7 +4,7 @@ A cyber security & GRC enthusiast, with deep interest in the governance, risk, a
 
 ## Certifications and Coursework:
 
-- ### [CISCO's Introduction to Cybersecurity](https://www.credly.com/badges/20980193-d114-40b7-b2a0-be9ae60c8140/linked_in?t=rwji93)
+- ### [Cisco's Introduction to Cybersecurity](https://www.credly.com/badges/20980193-d114-40b7-b2a0-be9ae60c8140/linked_in?t=rwji93)
 - ### [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GVKDJR7KRBYW)
 - ### [Cisco's Networking Basics](https://www.credly.com/badges/089892f8-982c-4ba4-8a66-a5fa921233ca/public_url)
 - ### [CompTIA Security+](https://www.credly.com/badges/63c18ad7-905e-4926-aaee-56c1ca36b41e/public_url)
