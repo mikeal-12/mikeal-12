@@ -2,7 +2,7 @@
 
 A cyber security & GRC enthusiast, with deep interest in the governance, risk, and compliance aspect of cyber space security. I'm open to collaborating on cool projects that make the digital landscape a safer place. Ready to bring my passion for security to the table and make things both secure and reliable
 
-## Certifications and Coursework
+## Certifications and Coursework:
 
 - ### [CISCO's Introduction to Cybersecurity](https://www.credly.com/badges/20980193-d114-40b7-b2a0-be9ae60c8140/linked_in?t=rwji93)
 - ### [Google Cybersecurity Specialization](https://www.coursera.org/account/accomplishments/specialization/certificate/GVKDJR7KRBYW)
@@ -18,16 +18,7 @@ A cyber security & GRC enthusiast, with deep interest in the governance, risk, a
 - ### [DATACOM Cybersecurity Job Simulation](https://github.com/mikeal-12/datacom-cybersecurity-job-simulation)
 - ### [PwC Cybersecurity Job Simulation](https://github.com/mikeal-12/pwc-cybersecurity-job-simulation)
 
-
-
-<!--
-### Project Name 2
-
-- Description: Briefly describe the project and your role.
-- Technologies Used: List the technologies or tools you used.
-- Link: Provide a link to the project repository or any relevant documentation. -->
-
-## Contact Information
+## Contact Information:
 
 - Email: isaacadebari610@gmail.com
 - LinkedIn: [Adebari Isaac](https://www.linkedin.com/in/adebari-isaac)
